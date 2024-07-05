@@ -165,3 +165,63 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 585205.756591 seconds.
+  path: Assets/Imported_Assest/LowPoly Environment Pack/FBX/Bush_2.fbx
+  artifactKey: Guid(87ad1332cfca6934ea307ce26bfc9dec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported_Assest/LowPoly Environment Pack/FBX/Bush_2.fbx using Guid(87ad1332cfca6934ea307ce26bfc9dec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebe2dfc2fa3e16975041d9001d344a9c') in 0.312802 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Imported_Assest/LowPoly Environment Pack/FBX/Rock_1.fbx
+  artifactKey: Guid(b2d7d77df4449b24fb2fffe6ca115874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported_Assest/LowPoly Environment Pack/FBX/Rock_1.fbx using Guid(b2d7d77df4449b24fb2fffe6ca115874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e125fef46d7c99fdc995ee554c327e2') in 0.008782 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Imported_Assest/LowPoly Environment Pack/FBX/Plant_2.fbx
+  artifactKey: Guid(c83f502368bab8140af79867b14e99c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported_Assest/LowPoly Environment Pack/FBX/Plant_2.fbx using Guid(c83f502368bab8140af79867b14e99c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd24aad9062edf55ee4957b66c7b92afd') in 0.009514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Imported_Assest/LowPoly Environment Pack/FBX/Terrain_2.fbx
+  artifactKey: Guid(cc767c10d36eaa748aaa5b008bf78528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported_Assest/LowPoly Environment Pack/FBX/Terrain_2.fbx using Guid(cc767c10d36eaa748aaa5b008bf78528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dff95922fa86b60079c6906c3d47a0a') in 0.009587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Imported_Assest/LowPoly Environment Pack/FBX/Terrain_1.fbx
+  artifactKey: Guid(dcf51a1e867a87e4596f1c757cbdb947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported_Assest/LowPoly Environment Pack/FBX/Terrain_1.fbx using Guid(dcf51a1e867a87e4596f1c757cbdb947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ea1609f130ec4781d768d634cc77e87') in 0.009869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Imported_Assest/LowPoly Environment Pack/FBX/Mounting_2.fbx
+  artifactKey: Guid(bf8d317df722d644f99e8ff3926c99d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported_Assest/LowPoly Environment Pack/FBX/Mounting_2.fbx using Guid(bf8d317df722d644f99e8ff3926c99d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e15afa43d0d95c7b8bee9634d89fdeed') in 0.008570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Imported_Assest/LowPoly Environment Pack/FBX/Rock_5.fbx
+  artifactKey: Guid(18cea87bdb7d0fa46986e492321f3d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported_Assest/LowPoly Environment Pack/FBX/Rock_5.fbx using Guid(18cea87bdb7d0fa46986e492321f3d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7abe0b022c4faf866ab67e296d92fcd7') in 0.009125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Imported_Assest/LowPoly Environment Pack/FBX/Rock_2.fbx
+  artifactKey: Guid(dfed2e9fb3d8ac84da441095f9422543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported_Assest/LowPoly Environment Pack/FBX/Rock_2.fbx using Guid(dfed2e9fb3d8ac84da441095f9422543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b2bc077c17bae9d2b33f1e6567e3b90') in 0.008434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Imported_Assest/LowPoly Environment Pack/FBX/Rock_3.fbx
+  artifactKey: Guid(f902b41e10cdd2d44aaf1ada606f5d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported_Assest/LowPoly Environment Pack/FBX/Rock_3.fbx using Guid(f902b41e10cdd2d44aaf1ada606f5d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da1f0c75a6336d3252b860403c8e391c') in 0.010269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 56.185478 seconds.
+  path: Assets/Imported_Assest/Customizable Skybox/Materials/dark trunk.mat
+  artifactKey: Guid(7c7f7e923f30d8b4193dfc9a7eb33ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported_Assest/Customizable Skybox/Materials/dark trunk.mat using Guid(7c7f7e923f30d8b4193dfc9a7eb33ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cad9dd151e6391eae920a4c999f36387') in 0.130535 seconds 
